@@ -1,2 +1,1 @@
-# Testando
-Aprendendo e testando git e github
+Alguns arquivos sobre Data Science.
